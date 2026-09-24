@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Francisco Duran 👋
 
-<!--
-**frandugo/frandugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full Stack Engineer** based in Barranquilla, Colombia, with 10+ years building web products for US and LATAM teams.
 
-Here are some ideas to get you started:
+- 💻 React, Next.js, Node.js and TypeScript on the product side
+- 🛍️ Shopify (Liquid, Remix apps) and WordPress / WooCommerce for agencies and e-commerce brands
+- 🧪 Testing with Jest and Testing Library, component systems with Storybook
+- 🤖 Currently building **Currican**, an AI resume builder (Next.js + Prisma + PostgreSQL + Llama)
+- 🌎 Open to remote Full Stack, Frontend and Shopify/WordPress roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+**Frontend:** React · Next.js · TypeScript · Vue.js / Nuxt · Tailwind CSS · Storybook  
+**Backend:** Node.js · REST APIs · Prisma · PostgreSQL · Firebase  
+**E-commerce / CMS:** Shopify (Liquid, Remix) · WordPress (PHP, ACF, Elementor, WPBakery) · WooCommerce · Webflow  
+**Quality:** Jest · Testing Library · Core Web Vitals
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/frandugo) · frandugo@ymail.com
