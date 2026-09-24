@@ -17,4 +17,4 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/frandugo) · frandugo@ymail.com
+[LinkedIn](https://www.linkedin.com/in/frandugo) · franciscoantoniodurangonzalez@gmail.com
